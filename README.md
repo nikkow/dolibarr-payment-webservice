@@ -58,4 +58,4 @@ This element is provided **as is**. I created this project to add a missing func
 
 **Why using the SOAP API when Dolibarr provides now a JSON/REST API?**
 
-This is a question I asked to myselft at the premises of the project. At the moment, the REST API looks more like a draft, a PoC, rather than a reliable solution. Also, it really lacks of a structured documentation.
+This is a question I asked to myself at the premises of the project. At the moment, the REST API looks more like a draft, a PoC, rather than a reliable solution. Also, it really lacks of a structured documentation.
